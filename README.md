@@ -1,6 +1,6 @@
 # Sea love breakout
 
-**[PLAY ONLINE](https://lyrurustetrix.github.io/sealovebreakout/sealovebreakout.html)**
+**[PLAY ONLINE](https://lyrurustetrix.github.io/sea_love_breakout/sealovebreakout.html)**
 
 It's a clone of the classical **breakout (arkanoid)** video game about seal and diver falling in love. It written on processing.js language (but fully compability with pure java processing language too). Graphical resources for game made by Anhelina Suschevska (gelofdesign@gmail.com (e-mail), [behance](https://www.behance.net/gelof) (portfolio), [patreon](https://www.patreon.com/gelof) (donate)).
 
