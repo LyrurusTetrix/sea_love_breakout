@@ -1,4 +1,4 @@
-// Sea love breakout //<>//
+// Sea love breakout
 // Coder: Hryhir Teteria (e-mail:lyrurustetrix@airmail.cc, git repo: https://github.com/LyrurusTetrix/)
 // Artist: Anhelina Suschevska (e-mail: gelofdesign@gmail.com, portfolio: https://www.behance.net/gelof)
 // Code and graphical resource licensed under Public Domain
